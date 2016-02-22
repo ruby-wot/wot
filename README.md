@@ -4,7 +4,7 @@ A collection of wonderfully horrible ideas implemented in Ruby.
 
 Contains:
 
-* [heresy](https://heretical.technology): Alternatives to an extensions
+* [heresy](https://heretical.technology): Alternatives to and extensions
   of parts of the standard library.
 * [globe](https://github.com/wot-ruby/globe): An alternative implementation of global variables.
 * [lovama](https://github.com/wot-ruby/lovama): Methods for local
