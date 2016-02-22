@@ -1,8 +1,16 @@
 # Wot
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/wot`. To experiment with that code, run `bin/console` for an interactive prompt.
+A collection of wonderfully horrible ideas implemented in Ruby.
 
-TODO: Delete this and the text above, and describe your gem
+Contains:
+
+* [heresy](https://heretical.technology): Alternatives to parts of the
+  standard library.
+* [globe](https://github.com/wot-ruby/globe): An alternative implementation of global variables.
+* [lovama](https://github.com/wot-ruby/lovama): Methods for local
+  variable manipulation.
+* [wot-quick_lambda](https://github.com/wot-quick_lambda): A rough
+  equivalent of Scala's anonymous function pattern matching for Ruby.
 
 ## Installation
 
@@ -22,7 +30,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See the documentation for each of the individual libraries.
 
 ## Development
 
