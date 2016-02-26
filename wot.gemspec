@@ -25,5 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "heresy", "~> 1.0.0"
   spec.add_runtime_dependency "globe", "~> 1.0.0"
   spec.add_runtime_dependency "lovama", "~> 0.2.4"
-  spec.add_runtime_dependency "wot-quick_lambda", "~> 1.0.0"
+  spec.add_runtime_dependency "quick_lambda", "~> 1.0.0"
 end
