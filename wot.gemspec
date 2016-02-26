@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Marie Markwell"]
   spec.email         = ["me@marie.so"]
 
-  spec.summary       = %q{Reinventing Ruby for my own amusement.}
+  spec.summary       = %q{Questionable additions and modifications to Ruby.}
   spec.homepage      = "https://absurd.technology"
   spec.license       = "MIT"
 
